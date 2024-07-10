@@ -1,0 +1,10 @@
+streamlit
+transformers
+sentence-transformers
+pinecone-client
+pinecone-text
+langchain
+langchain_community
+openai
+protobuf
+datasets
